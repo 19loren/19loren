@@ -16,7 +16,7 @@
   <img align="center" alt="Node.js" height="25" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Oracle" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
           
-  <img align="right" alt="Loren-Picrew" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/338224_jbwIZXb0.png">
+  <img align="right" alt="Loren-Picrew" height="150" style="border-radius:50px;" img data src="https://picrew.me/shareImg/org/202209/338224_E1VJ8tVm.png">
   
 </div>
        
