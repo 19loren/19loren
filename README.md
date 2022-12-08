@@ -22,7 +22,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/lor.sv/" target="_blank"><img src="https://icongr.am/fontawesome/instagram.svg?size=38&color=e8dede"></a>
+  <!--<a href="https://instagram.com/lor.sv/" target="_blank"><img src="https://icongr.am/fontawesome/instagram.svg?size=38&color=e8dede"></a>-->
   <a href="https://discord.gg/639995140911398923" class="fa-brands fa-discord"><img src="https://icongr.am/material/discord.svg?size=38&color=e8dede"></a> 
   <a href = "mailto:lorzsev@gmail.com"><img src="https://icongr.am/fontawesome/envelope-square.svg?size=38&color=e8dede" target="_blank"></a>
   <a href="https://www.linkedin.com/in/loren-tavolaro-9bb207234/" target="_blank"><img src="https://icongr.am/fontawesome/linkedin-square.svg?size=38&color=e8dede"></a>
