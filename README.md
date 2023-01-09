@@ -7,16 +7,10 @@
   ##
  
  <div style="display: inline_block"><br> 
-  <img src="https://skillicons.dev/icons?i=git,github,python,css" /><br>
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" with="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="Oracle" height="40" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>  
+  <img src="https://skillicons.dev/icons?i=git,github,python,css,html,c,figma,mysql&perline=4" /><br>
 
-  <a href="https://discord.gg/639995140911398923" class="fa-brands fa-discord"><img align="right" src="https://icongr.am/material/discord.svg?size=38&color=e8dede"></a> 
-  <a href = "mailto:lorzsev@gmail.com"><img align="right" src="https://icongr.am/fontawesome/envelope-square.svg?size=38&color=e8dede" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/loren-tavolaro-9bb207234/" target="_blank"><img align="right" src="https://icongr.am/fontawesome/linkedin-square.svg?size=38&color=e8dede"></a>
+  <a href="https://discord.gg/639995140911398923" class="fa-brands fa-discord"><img align="right" src="https://skillicons.dev/icons?i=discord"></a> 
+  <a href="https://www.linkedin.com/in/loren-tavolaro-9bb207234/" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=linkedin"></a>
   
 </div>
        
