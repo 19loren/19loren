@@ -7,7 +7,7 @@
   ##
  
  <div style="display: inline_block"><br> 
-  <img src="https://skillicons.dev/icons?i=git,github,python,css,html,c,figma,mysql,kotlin&perline=9" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,python,css,html,c,figma,mysql,kotlin,flutter&perline=10" /><br>
 
   <a href="https://discord.gg/639995140911398923" class="fa-brands fa-discord"><img align="right" src="https://skillicons.dev/icons?i=discord"></a> 
   <a href="https://www.linkedin.com/in/loren-tavolaro-9bb207234/" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=linkedin"></a>
