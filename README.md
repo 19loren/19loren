@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,python,css,html,javascript,c,figma,flutter,kotlin,mongo,java,&perline=6" /><br>
 
   <a href="https://discord.gg/639995140911398923" class="fa-brands fa-discord"><img align="right" src="https://skillicons.dev/icons?i=discord"></a> 
-  <a href="https://www.linkedin.com/in/loren-tavolaro-9bb207234/" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://www.linkedin.com/in/loren-tavolaro/" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=linkedin"></a>
   
 </div>
        
