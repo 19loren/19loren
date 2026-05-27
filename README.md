@@ -1,11 +1,7 @@
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=header"/>
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d9a2f5&width=900&size=30&center=true&lines=Hi+there!" alt="Typing SVG"/>
-</div>
 
-<br>     
 <br>
       
 <div align="center">
