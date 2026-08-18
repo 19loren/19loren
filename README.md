@@ -5,7 +5,7 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=19loren&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=19loren&rank_icon=github&show_icons=true&theme=radical&count_private=true">
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=19loren&layout=compact&theme=radical&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19loren&theme=radical"/>
 </div>
